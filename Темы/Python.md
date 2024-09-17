@@ -95,7 +95,7 @@ print(list(squared_numbers)) # Вывод: [1, 4, 9]
 # Абсолютный импорт
 import mypackage.mymodule
 # Относительный импорт
-from. import mymodule
+from . import mymodule
 ```
 
 ---
