@@ -6,6 +6,7 @@
 	- Pandas
 	- Locust
 	Просто понять для чего они нужны и как они это делают
+- !!! Очень хорошо было бы вот это знать и понимать https://habr.com/en/articles/319164/ !!!
 ### Вопрос 1: Что такое список и чем он отличается от кортежа?
 
 **Ответ:**  
@@ -95,7 +96,7 @@ print(list(squared_numbers)) # Вывод: [1, 4, 9]
 # Абсолютный импорт
 import mypackage.mymodule
 # Относительный импорт
-from. import mymodule
+from . import mymodule
 ```
 
 ---
